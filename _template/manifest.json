@@ -5,9 +5,9 @@
       }
    },
    "arc_metadata": {
-      "apkList": [ "custom-android-release-1400197.apk" ],
+      "apkList": [ "com.and.games505.Terraria.apk" ],
       "enableExternalDirectory": false,
-      "formFactor": "phone",
+      "formFactor": "tablet",
       "name": "__PACKAGE__",
       "orientation": "portrait",
       "packageName": "__PACKAGE__",
